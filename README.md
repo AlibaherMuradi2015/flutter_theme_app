@@ -1,6 +1,6 @@
 # flutter_theme_app
 
-A new Flutter project.
+Flutter changeing theme app.
 
 ## Getting Started
 
